@@ -4,6 +4,7 @@ Back in the day, I was searching for a post creation tool for an Instagram page.
 
 ## Running Locally
 1. Clone the repository.
+1. Navigate to `/public/foreground` directory and follow the instructions outlined in the `README.md` file.
 2. Install the dependencies using `yarn`.
 3. Run the project using `yarn start`.
 
